@@ -1,4 +1,4 @@
-# [Shopping Cart](https://ayushmaangupta261.github.io/)
+# [Shopping Cart](https://ayushmaangupta261.github.io/Shopping-App/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
